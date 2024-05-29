@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/190109798770670798/63cd9b8a992a48e1b46188428eeb5808/artifacts
+end_time: 1716973608359
+entry_point_name: ''
+experiment_id: '190109798770670798'
+lifecycle_stage: active
+run_id: 63cd9b8a992a48e1b46188428eeb5808
+run_name: victorious-lynx-379
+run_uuid: 63cd9b8a992a48e1b46188428eeb5808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716973606965
+status: 3
+tags: []
+user_id: bench

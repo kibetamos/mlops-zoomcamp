@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/190109798770670798/230ce9310b1f4681aa128e8f0d06eee7/artifacts
+end_time: 1716973573616
+entry_point_name: ''
+experiment_id: '190109798770670798'
+lifecycle_stage: active
+run_id: 230ce9310b1f4681aa128e8f0d06eee7
+run_name: upset-ox-947
+run_uuid: 230ce9310b1f4681aa128e8f0d06eee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716973571389
+status: 3
+tags: []
+user_id: bench

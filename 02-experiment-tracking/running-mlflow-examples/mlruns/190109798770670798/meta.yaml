@@ -1,0 +1,6 @@
+artifact_location: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/running-mlflow-examples/mlruns/190109798770670798
+creation_time: 1716973571298
+experiment_id: '190109798770670798'
+last_update_time: 1716973571298
+lifecycle_stage: active
+name: my-experiment-1
