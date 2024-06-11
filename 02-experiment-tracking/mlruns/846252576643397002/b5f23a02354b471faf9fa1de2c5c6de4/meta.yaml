@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/mlruns/846252576643397002/b5f23a02354b471faf9fa1de2c5c6de4/artifacts
+end_time: 1718083586269
+entry_point_name: ''
+experiment_id: '846252576643397002'
+lifecycle_stage: active
+run_id: b5f23a02354b471faf9fa1de2c5c6de4
+run_name: monumental-shrew-850
+run_uuid: b5f23a02354b471faf9fa1de2c5c6de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718083586262
+status: 4
+tags: []
+user_id: bench

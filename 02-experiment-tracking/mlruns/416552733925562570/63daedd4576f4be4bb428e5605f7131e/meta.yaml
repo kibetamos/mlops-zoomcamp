@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/mlruns/416552733925562570/63daedd4576f4be4bb428e5605f7131e/artifacts
+end_time: 1718083483285
+entry_point_name: ''
+experiment_id: '416552733925562570'
+lifecycle_stage: active
+run_id: 63daedd4576f4be4bb428e5605f7131e
+run_name: treasured-moth-912
+run_uuid: 63daedd4576f4be4bb428e5605f7131e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718083480110
+status: 3
+tags: []
+user_id: bench

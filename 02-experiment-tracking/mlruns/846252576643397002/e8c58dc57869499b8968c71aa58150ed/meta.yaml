@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/mlruns/846252576643397002/e8c58dc57869499b8968c71aa58150ed/artifacts
+end_time: 1718083561464
+entry_point_name: ''
+experiment_id: '846252576643397002'
+lifecycle_stage: active
+run_id: e8c58dc57869499b8968c71aa58150ed
+run_name: respected-fish-734
+run_uuid: e8c58dc57869499b8968c71aa58150ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718083558241
+status: 3
+tags: []
+user_id: bench

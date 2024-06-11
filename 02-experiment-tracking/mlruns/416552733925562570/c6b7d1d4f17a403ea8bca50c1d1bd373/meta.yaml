@@ -1,0 +1,15 @@
+artifact_uri: file:///home/bench/Documents/projects/mlops-zoomcamp/02-experiment-tracking/mlruns/416552733925562570/c6b7d1d4f17a403ea8bca50c1d1bd373/artifacts
+end_time: 1718083489576
+entry_point_name: ''
+experiment_id: '416552733925562570'
+lifecycle_stage: active
+run_id: c6b7d1d4f17a403ea8bca50c1d1bd373
+run_name: efficient-hound-799
+run_uuid: c6b7d1d4f17a403ea8bca50c1d1bd373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718083486429
+status: 3
+tags: []
+user_id: bench
