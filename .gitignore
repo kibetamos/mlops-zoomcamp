@@ -1,0 +1,7 @@
+env
+.env
+
+env/
+01-intro/yellow_tripdata_2023-01.parquet
+
+01-intro/yellow_tripdata_2023-02.parquet
